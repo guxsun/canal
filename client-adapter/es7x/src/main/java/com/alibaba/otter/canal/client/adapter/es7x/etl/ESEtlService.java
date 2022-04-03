@@ -32,7 +32,7 @@ import com.alibaba.otter.canal.client.adapter.support.Util;
 
 /**
  * ES ETL Service
- *
+ * init
  * @author rewerma 2018-11-01
  * @version 1.0.0
  */
